@@ -1,7 +1,3 @@
-Here is a clean and professional **README.md** file for your GitHub project:
-
----
-
 # Autonomous Vehicle Path Planning Using Parallel Processing
 
 ## Overview
@@ -92,12 +88,6 @@ The training loss, validation loss, and R² score are logged during training. Us
 python plot_results.py
 ```
 
-## Contributions
-- **Balasubramaniam Renganathan**: ResNet analysis and implementation.
-- **Derek Koechlin**: CNN model implementation.
-- **Shiva Kumar Dhandapani**: ResNet fine-tuning, code logging, and validation.
-- **Zachary Becker**: Code refinement and report preparation.
-
 ## Future Work
 - Explore more advanced architectures (e.g., Transformer-based models).
 - Implement real-time testing on physical hardware.
@@ -108,7 +98,3 @@ python plot_results.py
 - [ResNet Paper](https://arxiv.org/abs/1512.03385)
 - [PyTorch Multithreading](https://pytorch.org/docs/stable/notes/cpu_threading_torchscript_inference.html)
 - [CARLA Simulator](https://carla.org/)
-
----
-
-Let me know if you'd like further customization or additional details! 🚀
