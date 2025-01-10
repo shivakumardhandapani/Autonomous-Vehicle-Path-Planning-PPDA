@@ -1,7 +1,7 @@
 # Autonomous Vehicle Path Planning Using Parallel Processing
 
 ## Overview
-This project focuses on **real-time path planning** for autonomous vehicles using deep learning models, with an emphasis on **parallel processing** to improve training efficiency and performance. The project implements **CNN** and **ResNet-18** models to predict steering angles based on raw input images from the CARLA dataset. By leveraging PyTorch's parallelization capabilities, we achieve significant reductions in computation time and enhance model accuracy.
+This project focuses on **real-time path planning** for autonomous vehicles using deep learning models, with an emphasis on **parallel processing** to improve training efficiency and performance. The project implements **CNN** and **ResNet-18** models to predict steering angles based on raw input images from the CARLA dataset. By leveraging PyTorch's parallelization capabilities, we achieve significant reductions in computation time and enhance model accuracy. This project is done for the course Parallel Processing for Data Analytics at Northeastern University by Professor Stratis Ioannadis
 
 ## Key Features
 - **Parallel vs. Serial Training**: Implemented parallel processing to utilize multiple CPU cores and GPUs, reducing training time by 90% compared to serial execution.
