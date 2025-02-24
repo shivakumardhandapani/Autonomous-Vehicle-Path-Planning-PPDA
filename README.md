@@ -65,7 +65,7 @@ pip install -r requirements.txt
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/autonomous-path-planning.git
+   git clone https://github.com/shivakumardhandapani/autonomous-path-planning.git
    cd autonomous-path-planning
    ```
 2. Prepare the dataset:
